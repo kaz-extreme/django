@@ -1,0 +1,5 @@
+Инициализация директории (подключение гит) - git init
+добавление файлов в посылку - git add 
+Подтверждение изменений - git commit -m "Comment"
+подключение к удаленненому репозиторию - git add origin  https://github.com/kaz-extreme/django.git
+Запушить (отправить) все изменений git push origin
